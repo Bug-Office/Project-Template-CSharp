@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Guilherme Camargo",
+  "classifications": [
+    "WebAPI",
+    "MVC"
+  ],
+  "identity": "BugOffice.ProjectTemplate",
+  "name": "Bug Office Project Template",
+  "shortName": "projecttemplate",
+  "sourceName": "ProjectTemplate",
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "symbols": {
+    "ProjectName": {
+      "type": "parameter",
+      "datatype": "string",
+      "defaultValue": "ProjectTemplate",
+      "fileRename": "ProjectTemplate",
+      "replaces": "ProjectTemplate"
+    }
+  },
+  "sources": [
+    {
+      "modifiers": [
+        {
+          "exclude": [
+            ".git/**",
+            ".github/**"
+          ]
+        }
+      ]
+    }
+  ]
+}
