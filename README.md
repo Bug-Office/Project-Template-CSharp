@@ -5,6 +5,8 @@ Este é o template `ProjectTemplate` criado para aplicações C# baseadas em uma
 ## Estrutura do Projeto
 
 A estrutura criada pelo template é a seguinte:
+
+```
 ProjectTemplate/
 ├── ProjectTemplate.API/
 │ ├── appsettings.Development.json
@@ -45,6 +47,7 @@ ProjectTemplate/
 ├── LICENSE.txt
 ├── ProjectTemplate.sln
 └── README.md
+```
 
 ## Descrição dos Módulos
 
