@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>BugOffice.ProjectTemplate</id>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <authors>Guilherme Camargo</authors>
     <owners>Guilherme Camargo</owners>
     <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
@@ -10,7 +10,7 @@
     <iconUrl>https://example.com/icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Template de projeto .NET</description>
-    <releaseNotes>Primeira versão do template.</releaseNotes>
+    <releaseNotes>Adicionado alias para criação das entidades</releaseNotes>
     <tags>template dotnet</tags>
     <dependencies>
     </dependencies>
